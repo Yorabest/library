@@ -1,0 +1,30 @@
+.complited {
+    text-decoration: line-through;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+button,
+label {
+    cursor: pointer;
+    padding: 3px;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    list-style-type: none;
+    display: flex;
+}
+
+p {
+    margin: 10px;
+}
+
+/*# sourceMappingURL=/to-do-list.c3da4d0c.css.map */
